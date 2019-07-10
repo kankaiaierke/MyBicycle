@@ -1,0 +1,102 @@
+一、react
+
+基本介绍
+
+脚手架
+
+生命周期
+
+javascript库
+
+声明式编码
+
+组件化编码
+
+高效——高效的dom diff算法、最小化页面重绘
+
+单向数据流
+
+
+MV*框架代表
+
+Vue生态：Vue+Vue-Router+Vuex+Axios+Babel+Webpack
+
+React生态：React+React-Router+Redux+Axios+Babel+Webpack
+
+根据项目复杂度
+
+npm
+
+React
+
+编程式实现
+
+需要以具体代码表达在哪里（where）做什么(what)，如何实现(how)
+
+声明式实现
+
+需要以具体代码表达在哪里（where）做什么(what),无需关心如何实现(how)
+
+
+
+二、React脚手架、Yarn介绍
+
+如何安装React脚手架
+
+如何使用脚手架初始化项目
+
+什么是Yarm，为什么要使用Yarn
+
+如何安装和使用React脚手架
+
+
+npm install -g create-react-app
+
+create-react-app my-app
+
+cd my-app
+npm start
+
+Yarn是新一代包管理工具
+
+速度快
+
+安装版本统一、更安全
+
+更简洁的输出
+
+刚好的语义化
+
+yarn init
+
+yarn add
+
+yarn remove
+
+yarn/yarn install
+
+
+
+三、React生命周期包括哪些
+
+getDefaultProps
+
+getInitalState
+
+componentWillMount
+
+render
+
+componentDidMount
+
+componentWillReceiveProps
+
+shouldComponentUpdate
+
+componentWillUpdate
+
+componentDidUpdate
+
+componentWillUnmount
+
+
