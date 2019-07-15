@@ -52,9 +52,9 @@ React
 
 npm install -g create-react-app
 
-create-react-app my-app
+create-react-app mybicycle
 
-cd my-app
+cd mybicycle
 npm start
 
 Yarn是新一代包管理工具
