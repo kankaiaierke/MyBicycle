@@ -54,6 +54,7 @@ npm install -g create-react-app
 
 create-react-app mybicycle
 
+cd /Users/kankai/MyBicycle
 cd mybicycle
 npm start
 
